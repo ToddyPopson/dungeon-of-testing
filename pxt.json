@@ -1,0 +1,51 @@
+{
+    "name": "Dungeon of testing",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "sprite-scaling": "*",
+        "multiplayer": "*",
+        "color-coded-tilemap": "*",
+        "keyboard": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#00FF1E",
+        "#02D91B",
+        "#01B716",
+        "#018E11",
+        "#8C5D26",
+        "#744D20",
+        "#5B3D1A",
+        "#3B2B4F",
+        "#00FFCC",
+        "#02DEB2",
+        "#02B692",
+        "#835B9A",
+        "#68487A",
+        "#543B63",
+        "#F1F7F8"
+    ]
+}
