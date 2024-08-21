@@ -1,5 +1,6 @@
 {
     "name": "Dungeon of testing",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
