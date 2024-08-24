@@ -38,5 +38,5 @@ forever(function () {
 })
 forever(function () {
     scene.cameraFollowSprite(mp.getPlayerSprite(mp.playerSelector(mp.PlayerNumber.One)))
-    music.play(music.createSong(hex`00780004080200`), music.PlaybackMode.UntilDone)
+    music.play(music.createSong(assets.song`songy`), music.PlaybackMode.UntilDone)
 })
